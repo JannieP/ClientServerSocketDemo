@@ -1,0 +1,1 @@
+java -Dlog4j.configuration=file:./log4j.server.properties -jar DHSCS-Server-1.0.0.jar

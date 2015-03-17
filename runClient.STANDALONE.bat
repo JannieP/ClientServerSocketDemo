@@ -1,0 +1,1 @@
+java -Dlog4j.configuration=file:./log4j.client.properties -jar DHSCS-Client-1.0.0.jar STANDALONE
